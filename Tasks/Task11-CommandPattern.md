@@ -4,8 +4,7 @@
 ```java
 
 // A simple Java program to demonstrate
-// implementation of Command Pattern using
-// a remote control example.
+// implementation of Command Pattern 
 
 // An interface for command
 interface Command
