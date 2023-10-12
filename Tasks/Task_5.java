@@ -1,3 +1,5 @@
+//Dependency Inversion
+
 interface INotification {
     void Notify();
 }
