@@ -2,7 +2,7 @@
 
 ## Imagine you are working on an e-commerce platform called "FlipKart," where customers can receive real-time notifications about the availability of products they are interested in. The given code implements the Observer design pattern for this purpose.
 
-```
+```java
 import java.util.ArrayList;
 import java.util.List;
 
