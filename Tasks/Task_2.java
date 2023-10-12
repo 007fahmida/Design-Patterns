@@ -1,3 +1,5 @@
+//Inheritance,Variable declaration,Object creation,Access modifier,Method with parameters.
+
 class Vehicle 
 {
     // Variable declaration with access modifier
